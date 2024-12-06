@@ -16,8 +16,8 @@ Este proyecto implementa un frontend para gestionar tareas utilizando React, Vit
 
 1. **Clonar el repositorio**
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd frontend
+   git clone https://github.com/AlexGrim12/FrontTodoApp
+   cd FrontTodoApp
    ```
 
 2. **Instalar dependencias**
