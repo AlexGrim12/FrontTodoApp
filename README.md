@@ -81,4 +81,4 @@ frontend/
 
 ## Notas
 - El frontend interactúa con la API del backend, que debe estar corriendo para la funcionalidad completa.
-- Las rutas de la API deben configurarse en `TaskList.js` y `TaskForm.js` para asegurar la conectividad.
+
